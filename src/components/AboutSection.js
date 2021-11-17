@@ -45,6 +45,6 @@ const AboutSection = () => {
   );
 };
 
-//Stled Components
+//Styled Components
 
 export default AboutSection;
